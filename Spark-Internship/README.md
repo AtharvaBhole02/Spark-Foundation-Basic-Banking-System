@@ -1,2 +1,2 @@
-# Sparks Foundation - Basic Banking System Website
+Basic Banking System Website
 
